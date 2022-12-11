@@ -1,12 +1,14 @@
 # Change these first
 owner: paulwolters # Your GitHub organization or username, where this repository lives
-repo: bih-upptime # The name of this repository
+repo: up # The name of this repository
 
 sites:
   - name: BIH
     url: https://www.betoninhuis.nl
-  - name: PW-com
-    url: https://www.paulwolters.com
+  - name: FIT-nl
+    url: https://www.fit.nl
+  - name: PB-nl
+    url: https://www.parkerenbij.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,7 +17,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Op **status.wltrs.nl** vind je update status van mijn serverless websites."
+  introTitle: "Hier zie je de uptime status."
   introMessage: &copy; Paul 
   navbar:
     - title: Status
