@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 201,
-    "timeWeek": 221,
-    "timeMonth": 248,
-    "timeYear": 248,
+    "time": 246,
+    "timeDay": 196,
+    "timeWeek": 206,
+    "timeMonth": 246,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fit.nl.ico",
     "slug": "fit-nl",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 943,
-    "timeDay": 829,
-    "timeWeek": 805,
-    "timeMonth": 943,
-    "timeYear": 943,
-    "dailyMinutesDown": {
-      "2022-12-31": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 958,
+    "timeDay": 1119,
+    "timeWeek": 850,
+    "timeMonth": 958,
+    "timeYear": 958,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PB-nl",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 321,
-    "timeWeek": 356,
-    "timeMonth": 449,
-    "timeYear": 449,
+    "time": 452,
+    "timeDay": 506,
+    "timeWeek": 355,
+    "timeMonth": 452,
+    "timeYear": 452,
     "dailyMinutesDown": {}
   }
 ]
