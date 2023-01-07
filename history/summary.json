@@ -22,7 +22,7 @@
     "url": "https://www.fit.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.fit.nl.ico",
     "slug": "fit-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,10 +30,12 @@
     "uptimeYear": "100.00%",
     "time": 964,
     "timeDay": 774,
-    "timeWeek": 1020,
+    "timeWeek": 1031,
     "timeMonth": 964,
     "timeYear": 964,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-07": 0
+    }
   },
   {
     "name": "PB-nl",
