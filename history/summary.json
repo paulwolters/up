@@ -22,19 +22,19 @@
     "url": "https://www.fit.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.fit.nl.ico",
     "slug": "fit-nl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 919,
-    "timeDay": 1244,
-    "timeWeek": 854,
-    "timeMonth": 874,
-    "timeYear": 919,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 921,
+    "timeDay": 1128,
+    "timeWeek": 874,
+    "timeMonth": 878,
+    "timeYear": 921,
     "dailyMinutesDown": {
-      "2023-01-24": 0
+      "2023-01-24": 6
     }
   },
   {
