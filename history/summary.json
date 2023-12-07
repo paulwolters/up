@@ -6,9 +6,9 @@
     "slug": "bih",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 266,
     "timeDay": 131,
@@ -16,7 +16,7 @@
     "timeMonth": 258,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2023-12-07": 0
+      "2023-12-07": 5
     }
   },
   {
