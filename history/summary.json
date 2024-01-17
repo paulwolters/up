@@ -4,18 +4,20 @@
     "url": "https://www.betoninhuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.betoninhuis.nl.ico",
     "slug": "bih",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 267,
-    "timeWeek": 236,
-    "timeMonth": 238,
+    "time": 264,
+    "timeDay": 389,
+    "timeWeek": 270,
+    "timeMonth": 246,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "FIT-nl",
