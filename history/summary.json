@@ -4,19 +4,19 @@
     "url": "https://www.betoninhuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.betoninhuis.nl.ico",
     "slug": "bih",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 206,
-    "timeWeek": 224,
-    "timeMonth": 223,
+    "timeDay": 254,
+    "timeWeek": 234,
+    "timeMonth": 226,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2024-03-21": 1
+      "2024-03-21": 5
     }
   },
   {
@@ -48,19 +48,19 @@
     "url": "https://www.parkerenbij.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.parkerenbij.nl.ico",
     "slug": "pb-nl",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 442,
-    "timeDay": 542,
-    "timeWeek": 460,
-    "timeMonth": 428,
+    "timeDay": 586,
+    "timeWeek": 481,
+    "timeMonth": 435,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2024-03-21": 0
+      "2024-03-21": 5
     }
   }
 ]
