@@ -22,7 +22,7 @@
     "url": "https://www.fit.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.fit.nl.ico",
     "slug": "fit-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 972,
     "timeYear": 995,
     "dailyMinutesDown": {
+      "2024-05-05": 0,
       "2023-08-31": 81,
       "2023-08-11": 17,
       "2023-05-17": 21,
