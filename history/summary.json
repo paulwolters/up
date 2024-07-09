@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 188,
-    "timeWeek": 199,
+    "timeDay": 232,
+    "timeWeek": 203,
     "timeMonth": 209,
     "timeYear": 256,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fit.nl.ico",
     "slug": "fit-nl",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 992,
-    "timeDay": 749,
-    "timeWeek": 1384,
-    "timeMonth": 1033,
-    "timeYear": 1001,
+    "timeDay": 1033,
+    "timeWeek": 1415,
+    "timeMonth": 1040,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2023-08-31": 81,
       "2023-08-11": 17
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 446,
-    "timeDay": 379,
-    "timeWeek": 401,
-    "timeMonth": 395,
-    "timeYear": 453,
+    "timeDay": 413,
+    "timeWeek": 408,
+    "timeMonth": 397,
+    "timeYear": 454,
     "dailyMinutesDown": {}
   }
 ]
