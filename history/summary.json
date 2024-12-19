@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 160,
-    "timeWeek": 235,
-    "timeMonth": 235,
+    "timeDay": 278,
+    "timeWeek": 245,
+    "timeMonth": 238,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2024-10-22": 16
@@ -26,14 +26,14 @@
     "slug": "fit-nl",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.83%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 996,
-    "timeDay": 911,
-    "timeWeek": 1024,
-    "timeMonth": 930,
+    "time": 997,
+    "timeDay": 1038,
+    "timeWeek": 1004,
+    "timeMonth": 942,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2024-12-17": 31,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 453,
-    "timeDay": 315,
-    "timeWeek": 466,
-    "timeMonth": 445,
-    "timeYear": 444,
+    "timeDay": 401,
+    "timeWeek": 443,
+    "timeMonth": 447,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2024-10-22": 16
     }
