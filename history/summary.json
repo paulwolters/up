@@ -66,17 +66,17 @@
     "url": "https://www.parkerenbij.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.parkerenbij.nl.ico",
     "slug": "pb-nl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
     "time": 488,
-    "timeDay": 674,
-    "timeWeek": 520,
-    "timeMonth": 537,
-    "timeYear": 496,
+    "timeDay": 703,
+    "timeWeek": 547,
+    "timeMonth": 543,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2025-08-22": 19,
       "2025-08-26": 15,
@@ -94,7 +94,7 @@
       "2025-12-23": 18,
       "2026-01-07": 24,
       "2026-02-20": 27,
-      "2026-08-17": 0
+      "2026-08-17": 10
     }
   }
 ]
