@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 272,
-    "timeDay": 327,
-    "timeWeek": 274,
-    "timeMonth": 250,
-    "timeYear": 278,
+    "timeDay": 140,
+    "timeWeek": 272,
+    "timeMonth": 249,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2025-08-22": 19,
       "2025-08-26": 16,
@@ -44,10 +44,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
-    "time": 835,
-    "timeDay": 969,
-    "timeWeek": 840,
-    "timeMonth": 791,
+    "time": 834,
+    "timeDay": 604,
+    "timeWeek": 844,
+    "timeMonth": 788,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2025-09-04": 70,
@@ -68,14 +68,14 @@
     "slug": "pb-nl",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 488,
-    "timeDay": 703,
-    "timeWeek": 547,
-    "timeMonth": 543,
+    "timeDay": 573,
+    "timeWeek": 554,
+    "timeMonth": 538,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2025-08-22": 19,
@@ -93,8 +93,7 @@
       "2025-12-10": 18,
       "2025-12-23": 18,
       "2026-01-07": 24,
-      "2026-02-20": 27,
-      "2026-08-17": 10
+      "2026-02-20": 27
     }
   }
 ]
